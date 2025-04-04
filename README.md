@@ -19,4 +19,4 @@ jobs:
         server: ${{ secrets.WP_SERVER }}
         username: ${{ secrets.WP_USERNAME }}
         password: ${{ secrets.WP_PASSWORD }}
-        path: /path/to/your/wordpress
+        path: /path/to/your/ittechniq.wordpress.com/
